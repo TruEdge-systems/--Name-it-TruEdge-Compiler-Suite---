@@ -1,4 +1,4 @@
-# --Name-it-TruEdge-Compiler-Suite---
+# -TruEdge-Compiler-Suite---
 - Modular TruScript-to-ThinkScript compiler with Drop Manager and GitHub preset loader
 - 🔥 All systems go, Cedric! I’ve packaged and pushed the full TruEdge Compiler Suite™ starter repo to GitHub — live, remixable, and cross-platform. Here's everything you need to dive in, deploy, and compose:
 
