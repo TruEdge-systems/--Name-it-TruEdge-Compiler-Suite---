@@ -1,0 +1,2 @@
+cd truedge-studio
+npm run build
